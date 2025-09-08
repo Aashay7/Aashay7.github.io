@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <!--
+<html lang="en">
+  <head>
+    <!--
     If you are serving your web app in a path other than the root, change the
     href value below to reflect the base path you are serving from.
 
@@ -14,25 +14,132 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
-  <base href="/">
+    <base href="/" />
 
-  <meta charset="UTF-8">
-  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
+    <meta charset="UTF-8" />
+    <meta content="IE=Edge" http-equiv="X-UA-Compatible" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <!-- iOS meta tags & icons -->
-  <meta name="mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="folio">
-  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+    <!-- SEO Meta Tags -->
+    <meta
+      name="description"
+      content="Aashay Gondalia - Data Scientist & Software Engineer Portfolio. Specializing in Machine Learning, Flutter Development, and Data-driven Solutions."
+    />
+    <meta
+      name="keywords"
+      content="Aashay Gondalia, Data Scientist, Software Engineer, Machine Learning, Flutter, Python, Portfolio, AI, ML"
+    />
+    <meta name="author" content="Aashay Gondalia" />
+    <meta name="robots" content="index, follow" />
 
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png"/>
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://Aashay7.github.io/" />
+    <meta
+      property="og:title"
+      content="Aashay Gondalia | Data Scientist & Software Engineer"
+    />
+    <meta
+      property="og:description"
+      content="Portfolio showcasing projects in Machine Learning, Data Science, and Software Development"
+    />
+    <meta
+      property="og:image"
+      content="https://Aashay7.github.io/icons/Icon-512.png"
+    />
 
-  <title>folio</title>
-  <link rel="manifest" href="manifest.json">
-</head>
-<body>
-  <script src="flutter_bootstrap.js" async></script>
-</body>
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://Aashay7.github.io/" />
+    <meta
+      property="twitter:title"
+      content="Aashay Gondalia | Data Scientist & Software Engineer"
+    />
+    <meta
+      property="twitter:description"
+      content="Portfolio showcasing projects in Machine Learning, Data Science, and Software Development"
+    />
+    <meta
+      property="twitter:image"
+      content="https://Aashay7.github.io/icons/Icon-512.png"
+    />
+
+    <!-- iOS meta tags & icons -->
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <meta
+      name="apple-mobile-web-app-title"
+      content="Aashay Gondalia Portfolio"
+    />
+    <link rel="apple-touch-icon" href="icons/Icon-192.png" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="favicon.png" />
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#26FFCC" />
+
+    <title>
+      Aashay Gondalia | Data Scientist & Software Engineer Portfolio
+    </title>
+    <link rel="manifest" href="manifest.json" />
+
+    <!-- Performance optimization -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Loading styles -->
+    <style>
+      .loading {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        background: linear-gradient(135deg, #000000, #1a1a1a);
+        color: #26ffcc;
+        font-family: "Arial", sans-serif;
+      }
+      .spinner {
+        width: 50px;
+        height: 50px;
+        border: 3px solid rgba(38, 255, 204, 0.3);
+        border-radius: 50%;
+        border-top-color: #26ffcc;
+        animation: spin 1s ease-in-out infinite;
+      }
+      @keyframes spin {
+        to {
+          transform: rotate(360deg);
+        }
+      }
+      .loading-text {
+        margin-top: 20px;
+        font-size: 18px;
+        font-weight: 500;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Loading screen -->
+    <div id="loading" class="loading">
+      <div class="spinner"></div>
+      <div class="loading-text">Loading Portfolio...</div>
+    </div>
+
+    <script>
+      // Hide loading screen when Flutter is ready
+      window.addEventListener("flutter-first-frame", function () {
+        const loading = document.getElementById("loading");
+        if (loading) {
+          loading.remove();
+        }
+      });
+    </script>
+
+    <script src="flutter_bootstrap.js" async></script>
+  </body>
 </html>
