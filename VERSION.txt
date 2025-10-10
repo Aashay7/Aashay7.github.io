@@ -1,5 +1,0 @@
-Version: 2.0.0
-Build Date: October 9, 2025
-Commit: Release build
-Features: Image Carousel, Enhanced Placeholders, Glass Morphism UI
-Performance: 99%+ icon optimization, Tree-shaken assets
