@@ -48421,7 +48421,7 @@ p=k.a
 o=p.d
 n=t.A9
 n=q?new A.cV(B.Ol,n):new A.cV(B.Om,n)
-m=A.eh(q?B.Ec:B.Er,j,j,j)
+m=A.eh(q?B.Ec:B.Et,j,j,j)
 l=q?"Back":"More"
 n=A.c([new A.T7(m,new A.alY(k),l,n)],t.p)
 B.b.V(n,k.a.c)
@@ -78127,7 +78127,7 @@ M(a){var s,r=this,q=null,p=r.y,o=t.N,n=t.K,m=r.z,l=r.Q,k=r.as,j=A.c([A.ak(["labe
 n=r.d
 o=r.gUT()
 s=t.p
-return new A.zl(A.jb(B.co,A.c([A.av8(A.cj(A.c([new A.y1(o,j,r.e,q),A.bk(q,new A.y0(new A.agU(r),new A.agV(r),q),B.n,q,q,q,q,q,p,q,q,q,q,q),new A.Fw(m),new A.yG(l),new A.GN(k)],s),B.D,B.G,B.y),n,B.ld),new A.wW(o,j,r.e,n,q),new A.zs(n,q)],s),B.X,B.bE),new A.qJ("Download Resume",B.Em,new A.agW(r),q),q)}}
+return new A.zl(A.jb(B.co,A.c([A.av8(A.cj(A.c([new A.y1(o,j,r.e,q),A.bk(q,new A.y0(new A.agU(r),new A.agV(r),q),B.n,q,q,q,q,q,p,q,q,q,q,q),new A.Fw(m),new A.yG(l),new A.GN(k)],s),B.D,B.G,B.y),n,B.ld),new A.wW(o,j,r.e,n,q),new A.zs(n,q)],s),B.X,B.bE),new A.qJ("Download Resume",B.En,new A.agW(r),q),q)}}
 A.agR.prototype={
 $0(){return this.a.e=3},
 $S:0}
@@ -78204,7 +78204,7 @@ k=A.eK(A.T(102,B.f.m()>>>16&255,B.f.m()>>>8&255,B.f.m()&255),3)
 j=a?60:80
 m=A.ft(A.c([o,A.jL(A.bk(h,A.cj(A.c([A.dM(A.a8C(A.dJ(A.bk(h,A.fJ(A.eh(B.mY,A.T(204,B.f.m()>>>16&255,B.f.m()>>>8&255,B.f.m()&255),h,j),h,h),B.n,h,h,new A.bh(h,h,k,h,h,new A.kl(B.K,0.5,B.a8,h,0,d,h,h),B.bs),h,l,h,h,h,h,h,n)),A.aR(3e5,0),A.aR(e,0)),h,h),A.cL(h,A.eo(a1,40),h),i.IC(a1)],m),B.D,B.b2,B.y),B.n,h,h,h,h,h,h,h,B.e1,h,h,h),2,h)],m),B.as,h,B.G,B.y,0)
 d=m}return A.bk(h,A.cj(A.c([q,p,d],t.p),B.D,B.G,B.y),B.n,h,h,new A.bh(h,h,h,h,h,new A.dy(B.bh,B.cU,B.a8,r,h,h),B.I),h,h,h,h,new A.at(s,a0,s,a0),h,h,1/0)},
-Iz(a){var s=null,r=t.N,q=t.K,p=A.c([A.ak(["icon",B.EE,"title","Problem Solving","text","I love unpacking hard problems, whether it\u2019s optimizing ML pipelines or designing systems that hold up in the real world."],r,q),A.ak(["icon",B.EB,"title","Always Learning","text","From LLMs to inference optimizations, I\u2019m constantly exploring new ideas and testing them in systems."],r,q),A.ak(["icon",B.EA,"title","Building with Purpose","text","I care about creating tools that are simple, smarter and meaningful to use."],r,q)],t.Mq)
+Iz(a){var s=null,r=t.N,q=t.K,p=A.c([A.ak(["icon",B.Ev,"title","Problem Solving","text","I love unpacking hard problems, whether it's optimizing ML pipelines or designing systems that hold up in the real world."],r,q),A.ak(["icon",B.Er,"title","Always Learning","text","From LLMs to inference optimizations, I'm constantly exploring new ideas and testing them in systems."],r,q),A.ak(["icon",B.Ed,"title","Building with Purpose","text","I care about creating tools that are simple, smarter and meaningful to use."],r,q)],t.Mq)
 q=A.c([A.dM(A.dJ(A.bC("What drives me",s,s,A.cA(s,s,B.f,s,s,s,s,s,"Gsans",s,s,A.cm(a,24),s,s,B.a9,s,s,!0,s,s,s,s,s,s,s,s),s)),A.aR(6e5,0),A.aR(6e5,0)),A.cL(s,A.eo(a,20),s)],t.p)
 B.b.V(q,new A.fX(p,t.aS).geC().e5(0,new A.VA(a),t.l7))
 return A.cj(q,B.as,B.G,B.y)},
@@ -78263,7 +78263,7 @@ $3(a,b,c){return b},
 $S:51}
 A.adY.prototype={
 $3(a,b,c){var s=null
-return A.bk(s,A.fJ(A.eh(B.Ew,B.f,s,this.a?30:40),s,s),B.n,B.aP,s,s,s,s,s,s,s,s,s,s)},
+return A.bk(s,A.fJ(A.eh(B.Ez,B.f,s,this.a?30:40),s,s),B.n,B.aP,s,s,s,s,s,s,s,s,s,s)},
 $S:98}
 A.ae1.prototype={
 $1(a){var s=null
@@ -78284,11 +78284,11 @@ return A.R(A.uS(A.e6(a,0,null),B.eb),$async$uR)
 case 2:if(!c)throw A.i("Could not launch "+a)
 return A.M(null,r)}})
 return A.N($async$uR,r)},
-a2V(a){switch(a.toLowerCase()){case"github":return B.Ej
-case"linkedin":return B.Ed
-case"scholar":return B.Et
-case"resume":return B.El
-case"email":return B.En
+a2V(a){switch(a.toLowerCase()){case"github":return B.Ek
+case"linkedin":return B.Ee
+case"scholar":return B.Ew
+case"resume":return B.Em
+case"email":return B.Eo
 default:return B.mX}},
 M(a){var s,r,q,p,o,n,m,l,k,j,i=null,h="Gsans",g=6e5,f=A.aS(a,i,t.w).w,e=A.eo(a,80)
 f=f.a.a*0.08
@@ -78322,7 +78322,7 @@ A.Xy.prototype={
 $0(){return this.a.uR(this.b.b)},
 $S:0}
 A.wW.prototype={
-an(){return new A.BW(A.ak(["Home",B.Ex,"About",B.Es,"Projects",B.Eu,"Contact",B.Eq],t.N,t.tk),null,null)},
+an(){return new A.BW(A.ak(["Home",B.EA,"About",B.Eu,"Projects",B.Ex,"Contact",B.Es],t.N,t.tk),null,null)},
 F9(a){return this.c.$1(a)}}
 A.BW.prototype={
 aA(){var s,r,q=this,p=null
@@ -78439,7 +78439,7 @@ $1(a){return this.a.LW(!1)},
 $S:19}
 A.ag9.prototype={
 $1(a){var s=a.a,r=a.b,q=this.a,p=q.d,o=q.a.e,n=q.as.i(0,r.i(0,"label"))
-if(n==null)n=B.Eh
+if(n==null)n=B.Ei
 return q.a_S(n,o===s,p===s,r.i(0,"label"),new A.ag7(q,s),new A.ag8(q,r))},
 $S:515}
 A.ag8.prototype={
@@ -78574,12 +78574,12 @@ return A.aqf(A.yn(A.bk(s,A.bC("I love building machine learning systems, elegant
 $S:46}
 A.aih.prototype={
 $3(a,b,c){var s=this.a.a
-return A.aqf(A.yn(A.tH(B.c5,A.c([A.av1(B.ED,"View My Work",s.c),A.av1(B.Ek,"Get In Touch",s.d)],t.p),null,12,16),b),new A.h(0,30*(1-b)))},
+return A.aqf(A.yn(A.tH(B.c5,A.c([A.av1(B.EE,"View My Work",s.c),A.av1(B.El,"Get In Touch",s.d)],t.p),null,12,16),b),new A.h(0,30*(1-b)))},
 $S:46}
 A.aii.prototype={
 $3(a,b,c){var s=null,r=B.c.a1(76.5),q=A.c([A.T(r,B.f.m()>>>16&255,B.f.m()>>>8&255,B.f.m()&255),A.T(B.c.a1(25.5),B.bB.m()>>>16&255,B.bB.m()>>>8&255,B.bB.m()&255),B.r],t.c)
 r=A.eK(A.T(r,B.f.m()>>>16&255,B.f.m()>>>8&255,B.f.m()&255),2)
-return A.LZ(B.K,A.yn(A.bk(B.K,A.bk(s,A.fJ(A.eh(B.Ev,A.T(153,B.f.m()>>>16&255,B.f.m()>>>8&255,B.f.m()&255),s,150),s,s),B.n,s,s,new A.bh(s,s,r,s,s,new A.kl(B.K,0.5,B.a8,s,0,q,s,s),B.bs),s,300,s,s,s,s,s,300),B.n,s,s,s,s,s,s,s,s,s,s,s),b),0.8+0.2*b,s,s,!0)},
+return A.LZ(B.K,A.yn(A.bk(B.K,A.bk(s,A.fJ(A.eh(B.Ey,A.T(153,B.f.m()>>>16&255,B.f.m()>>>8&255,B.f.m()&255),s,150),s,s),B.n,s,s,new A.bh(s,s,r,s,s,new A.kl(B.K,0.5,B.a8,s,0,q,s,s),B.bs),s,300,s,s,s,s,s,300),B.n,s,s,s,s,s,s,s,s,s,s,s),b),0.8+0.2*b,s,s,!0)},
 $S:46}
 A.Jk.prototype={
 aB(a,b){var s,r,q,p,o,n,m,l
@@ -78723,7 +78723,7 @@ l=A.X(new A.a4(l,new A.aiw(g),k),k.h("ao.E"))
 m.push(A.tH(B.c5,l,j,4,6))}m.push(B.Od)
 l=A.c([],p)
 if(g.a.c.i(0,h)!=null)l.push(A.bC(g.a.c.i(0,h),j,j,B.QF,j))
-l.push(A.n2(j,A.eh(B.Ey,g.d?B.f:B.lS,j,20),B.L,j,B.Y,j,j,j))
+l.push(A.n2(j,A.eh(B.EB,g.d?B.f:B.lS,j,20),B.L,j,B.Y,j,j,j))
 m.push(A.ft(l,B.D,j,B.jR,B.y,0))
 return A.LZ(B.K,A.bk(j,A.cj(A.c([n,A.jL(new A.c4(B.e1,A.cj(m,B.as,B.G,B.y),j),1,j)],p),B.as,B.G,B.y),B.n,j,j,new A.bh(s,j,q,r,o,j,B.I),j,420,j,j,j,j,j,350),f,j,j,!0)},
 $S:190}
@@ -78936,7 +78936,7 @@ A.ajl.prototype={
 $2(a,b){return A.apT(new A.ee(b,!1,a,null),b)},
 $S:526}
 A.ajk.prototype={
-$3(a,b,c){var s=this.a.d?B.Eo:B.Ep
+$3(a,b,c){var s=this.a.d?B.Ep:B.Eq
 return A.aqe(b*3.14159,A.eh(s,null,null,A.auV(a,20)))},
 $S:46}
 A.C6.prototype={
@@ -78964,11 +78964,11 @@ m===$&&A.a()
 n=A.qg(o,A.cL(new A.yt(m,new A.ahe(q),new A.aaK(new A.ahf(q),J.ch(q.a.c),p),p),n.a.b*0.4,p))
 o=q.d>0
 m=o?new A.ahg(q):p
-m=A.apl(p,A.eh(B.Ef,o?B.f:B.ce,p,p),p,p,m,p,p,p)
+m=A.apl(p,A.eh(B.Eg,o?B.f:B.ce,p,p),p,p,m,p,p,p)
 s=A.jL(A.ft(J.aB6(q.a.c).geC().e5(0,new A.ahh(q),t.dT).d6(0),B.D,p,B.b2,B.y,0),1,p)
 o=q.d<J.ch(q.a.c)-1?new A.ahi(q):p
 r=t.p
-return A.bk(p,A.cj(A.c([n,B.eI,A.ft(A.c([m,s,A.apl(p,A.eh(B.Eg,q.d<J.ch(q.a.c)-1?B.f:B.ce,p,p),p,p,o,p,p,p)],r),B.D,p,B.b2,B.y,0),A.bC(""+(q.d+1)+" of "+J.ch(q.a.c),p,p,A.cA(p,p,B.v,p,p,p,p,p,"Gsans",p,p,A.cm(a,14),p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p)],r),B.D,B.G,B.y),B.n,p,p,p,p,p,p,p,B.mn,p,p,p)}}
+return A.bk(p,A.cj(A.c([n,B.eI,A.ft(A.c([m,s,A.apl(p,A.eh(B.Eh,q.d<J.ch(q.a.c)-1?B.f:B.ce,p,p),p,p,o,p,p,p)],r),B.D,p,B.b2,B.y,0),A.bC(""+(q.d+1)+" of "+J.ch(q.a.c),p,p,A.cA(p,p,B.v,p,p,p,p,p,"Gsans",p,p,A.cm(a,14),p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p)],r),B.D,B.G,B.y),B.n,p,p,p,p,p,p,p,B.mn,p,p,p)}}
 A.ahc.prototype={
 $0(){return this.a.a.ajX(this.b)},
 $S:0}
@@ -79046,7 +79046,7 @@ r=A.cA(n,n,o.d?B.h:B.f5,n,n,n,n,n,"Gsans",n,n,15,n,n,n,n,n,!0,n,n,n,n,n,n,n,n)
 r=A.aoC(A.bC(o.a.d,n,n,n,B.be),B.d2,r)
 q=o.d
 p=q?B.Kp:B.j
-return A.eW(A.fg(n,A.n2(n,A.ft(A.c([s,B.yf,r,B.O_,new A.vc(A.eh(B.Ez,q?B.h:B.f5,n,22),p,B.cw,B.d2,n,n)],t.p),B.D,n,B.G,B.ch,0),B.cw,new A.bh(j,n,h,i,g,n,B.I),B.d2,n,B.mr,n),B.a0,!1,n,n,n,n,n,n,n,n,n,n,n,n,k,new A.al4(o),new A.al5(o),new A.al6(o)),B.ax,n,new A.al7(o),new A.al8(o),n)}}
+return A.eW(A.fg(n,A.n2(n,A.ft(A.c([s,B.yf,r,B.O_,new A.vc(A.eh(B.EC,q?B.h:B.f5,n,22),p,B.cw,B.d2,n,n)],t.p),B.D,n,B.G,B.ch,0),B.cw,new A.bh(j,n,h,i,g,n,B.I),B.d2,n,B.mr,n),B.a0,!1,n,n,n,n,n,n,n,n,n,n,n,n,k,new A.al4(o),new A.al5(o),new A.al6(o)),B.ax,n,new A.al7(o),new A.al8(o),n)}}
 A.al7.prototype={
 $1(a){var s=this.a
 return s.a9(new A.al0(s))},
@@ -83279,9 +83279,9 @@ B.AM=new A.WO(1,"viewport")
 B.cY=new A.ne(3,"experimentalWebParagraph")
 B.AQ=new A.vE(null,null,null,null,null,null,null)
 B.AR=new A.vF(null,null,null,null,null)
-B.EC=new A.bF(983699,"MaterialIcons",!1)
+B.ED=new A.bF(983699,"MaterialIcons",!1)
 B.h=new A.p(1,1,1,1,B.e)
-B.EH=new A.lq(B.EC,32,B.h,null,null)
+B.EH=new A.lq(B.ED,32,B.h,null,null)
 B.AS=new A.la(B.K,null,null,B.EH,null)
 B.AT=new A.vH(null,null,null,null,null,null,null,null,null)
 B.AU=new A.qa(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -83724,43 +83724,43 @@ B.cf=new A.x8(2,"translucent")
 B.Ea=new A.x9(null)
 B.Eb=new A.xa(null)
 B.Ec=new A.bF(57490,"MaterialIcons",!0)
-B.Ed=new A.bF(57627,"MaterialIcons",!1)
-B.Ef=new A.bF(57694,"MaterialIcons",!0)
-B.Eg=new A.bF(57695,"MaterialIcons",!0)
-B.Eh=new A.bF(57699,"MaterialIcons",!1)
-B.Ej=new A.bF(57718,"MaterialIcons",!1)
-B.Ek=new A.bF(57743,"MaterialIcons",!1)
-B.El=new A.bF(57791,"MaterialIcons",!1)
-B.Em=new A.bF(57857,"MaterialIcons",!1)
-B.En=new A.bF(57898,"MaterialIcons",!1)
-B.Eo=new A.bF(57925,"MaterialIcons",!1)
-B.Ep=new A.bF(57926,"MaterialIcons",!1)
+B.Ed=new A.bF(57622,"MaterialIcons",!1)
+B.Ee=new A.bF(57627,"MaterialIcons",!1)
+B.Eg=new A.bF(57694,"MaterialIcons",!0)
+B.Eh=new A.bF(57695,"MaterialIcons",!0)
+B.Ei=new A.bF(57699,"MaterialIcons",!1)
+B.Ek=new A.bF(57718,"MaterialIcons",!1)
+B.El=new A.bF(57743,"MaterialIcons",!1)
+B.Em=new A.bF(57791,"MaterialIcons",!1)
+B.En=new A.bF(57857,"MaterialIcons",!1)
+B.Eo=new A.bF(57898,"MaterialIcons",!1)
+B.Ep=new A.bF(57925,"MaterialIcons",!1)
+B.Eq=new A.bF(57926,"MaterialIcons",!1)
+B.Er=new A.bF(58235,"MaterialIcons",!1)
 B.mX=new A.bF(58240,"MaterialIcons",!1)
-B.Eq=new A.bF(58308,"MaterialIcons",!1)
-B.Er=new A.bF(58372,"MaterialIcons",!1)
-B.Es=new A.bF(58519,"MaterialIcons",!1)
-B.Et=new A.bF(58713,"MaterialIcons",!1)
-B.Eu=new A.bF(59124,"MaterialIcons",!1)
-B.Ev=new A.bF(59508,"MaterialIcons",!1)
-B.Ew=new A.bF(61151,"MaterialIcons",!1)
-B.Ex=new A.bF(61703,"MaterialIcons",!1)
+B.Es=new A.bF(58308,"MaterialIcons",!1)
+B.Et=new A.bF(58372,"MaterialIcons",!1)
+B.Eu=new A.bF(58519,"MaterialIcons",!1)
+B.Ev=new A.bF(58607,"MaterialIcons",!1)
+B.Ew=new A.bF(58713,"MaterialIcons",!1)
+B.Ex=new A.bF(59124,"MaterialIcons",!1)
+B.Ey=new A.bF(59508,"MaterialIcons",!1)
+B.Ez=new A.bF(61151,"MaterialIcons",!1)
+B.EA=new A.bF(61703,"MaterialIcons",!1)
 B.fP=new A.bF(61727,"MaterialIcons",!1)
 B.VG=new A.bF(62264,"MaterialIcons",!1)
-B.Ey=new A.bF(62842,"MaterialIcons",!0)
-B.Ez=new A.bF(62844,"MaterialIcons",!0)
-B.EA=new A.bF(62963,"MaterialIcons",!1)
+B.EB=new A.bF(62842,"MaterialIcons",!0)
+B.EC=new A.bF(62844,"MaterialIcons",!0)
 B.mY=new A.bF(63059,"MaterialIcons",!1)
-B.EB=new A.bF(63572,"MaterialIcons",!1)
-B.ED=new A.bF(983751,"MaterialIcons",!1)
-B.EE=new A.bF(985235,"MaterialIcons",!1)
+B.EE=new A.bF(983751,"MaterialIcons",!1)
 B.mZ=new A.dm(24,0,400,0,48,B.l,1,null,!1)
 B.EF=new A.dm(null,null,null,null,null,B.h,null,null,null)
 B.EG=new A.dm(null,null,null,null,null,B.l,null,null,null)
-B.Ei=new A.bF(57706,"MaterialIcons",!1)
-B.EI=new A.lq(B.Ei,24,B.h,null,null)
+B.Ej=new A.bF(57706,"MaterialIcons",!1)
+B.EI=new A.lq(B.Ej,24,B.h,null,null)
 B.EJ=new A.lq(B.mX,16,null,null,null)
-B.Ee=new A.bF(57657,"MaterialIcons",!1)
-B.EK=new A.lq(B.Ee,null,null,null,null)
+B.Ef=new A.bF(57657,"MaterialIcons",!1)
+B.EK=new A.lq(B.Ef,null,null,null,null)
 B.EV=new A.qO(0,"repeat")
 B.EW=new A.qO(1,"repeatX")
 B.EX=new A.qO(2,"repeatY")
