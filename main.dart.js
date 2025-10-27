@@ -78551,16 +78551,16 @@ p=A.asa(A.c([A.ack("Hi, I'm Aashay \ud83d\udc4b",B.aA,A.cA(h,h,B.f,h,h,h,h,h,"Gs
 o=A.cm(a,48)
 n=A.a5(a).ok.d
 n=n==null?h:n.Dp(B.h,A.cm(a,48),B.a9,1.1)
-n=A.ack("Data Scientist",B.aA,n==null?A.cA(h,h,B.h,h,h,h,h,h,h,h,h,A.cm(a,48),h,h,B.a9,h,1.1,!0,h,h,h,h,h,h,h,h):n)
+n=A.ack("AI Engineering",B.aA,n==null?A.cA(h,h,B.h,h,h,h,h,h,h,h,h,A.cm(a,48),h,h,B.a9,h,1.1,!0,h,h,h,h,h,h,h,h):n)
 m=A.a5(a).ok.d
 m=m==null?h:m.Dp(B.h,A.cm(a,48),B.a9,1.1)
-m=A.ack("AI Engineer",B.aA,m==null?A.cA(h,h,B.h,h,h,h,h,h,h,h,h,A.cm(a,48),h,h,B.a9,h,1.1,!0,h,h,h,h,h,h,h,h):m)
+m=A.ack("Data Science",B.aA,m==null?A.cA(h,h,B.h,h,h,h,h,h,h,h,h,A.cm(a,48),h,h,B.a9,h,1.1,!0,h,h,h,h,h,h,h,h):m)
 l=A.a5(a).ok.d
 l=l==null?h:l.Dp(B.h,A.cm(a,48),B.a9,1.1)
 k=t.p
 j=t.Y
 i=t.i
-return A.cL(A.jb(B.co,A.c([f,s,r,A.yE(0,new A.c4(B.DC,A.ft(A.c([A.jL(A.cj(A.c([p,B.eI,A.cL(A.cj(A.c([A.asa(A.c([n,m,A.ack("ML Engineer",B.aA,l==null?A.cA(h,h,B.h,h,h,h,h,h,h,h,h,A.cm(a,48),h,h,B.a9,h,1.1,!0,h,h,h,h,h,h,h,h):l)],q),!0,B.Dc,!0,!0,3)],k),B.as,B.G,B.y),o*1.1,h),B.O4,A.AR(new A.aig(),B.iL,new A.ap(0,1,j),i),B.O5,A.AR(new A.aih(this),B.iN,new A.ap(0,1,j),i)],k),B.as,B.b2,B.y),3,h),A.jL(A.AR(new A.aii(),B.d3,new A.ap(0,1,j),i),2,h)],k),B.D,h,B.G,B.y,0),h))],k),B.X,B.bE),g.a.b*0.92,1/0)}}
+return A.cL(A.jb(B.co,A.c([f,s,r,A.yE(0,new A.c4(B.DC,A.ft(A.c([A.jL(A.cj(A.c([p,B.eI,A.cL(A.cj(A.c([A.asa(A.c([n,m,A.ack("ML Engineering",B.aA,l==null?A.cA(h,h,B.h,h,h,h,h,h,h,h,h,A.cm(a,48),h,h,B.a9,h,1.1,!0,h,h,h,h,h,h,h,h):l)],q),!0,B.Dc,!0,!0,3)],k),B.as,B.G,B.y),o*1.1,h),B.O4,A.AR(new A.aig(),B.iL,new A.ap(0,1,j),i),B.O5,A.AR(new A.aih(this),B.iN,new A.ap(0,1,j),i)],k),B.as,B.b2,B.y),3,h),A.jL(A.AR(new A.aii(),B.d3,new A.ap(0,1,j),i),2,h)],k),B.D,h,B.G,B.y,0),h))],k),B.X,B.bE),g.a.b*0.92,1/0)}}
 A.aik.prototype={
 $1(a){var s=this.a
 s.a9(new A.aij(s))},
